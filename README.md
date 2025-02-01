@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-Coding in Javascript is 
+Coding in Javascript was difficult at first, but using the resources you provided, I was able to figure out the code. 
 
 ## License
 
